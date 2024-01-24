@@ -1,16 +1,17 @@
-![Logo](https://i.imgur.com/h0KjyPT.png)
+
+<img src="https://i.imgur.com/h0KjyPT.png" alt="project-screenshot" width="400" height="350/">
 # TaskFlow
 ToDo list flutter app using sqflite
 
 
 # Project Screenshots:
-
+<div>
 <img src="https://i.imgur.com/c4ArD4W.png" alt="project-screenshot" width="200" height="250/">
 
 <img src="https://i.imgur.com/mYPCPFW.png" alt="project-screenshot" width="200" height="250/">
 
 <img src="https://i.imgur.com/MNhsM7y.png" alt="project-screenshot" width="200" height="250/">
-
+</div>
 
 ## Getting Started
 
