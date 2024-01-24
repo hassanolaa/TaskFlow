@@ -16,7 +16,7 @@
 
 <div>
 <img src="https://github.com/hassanolaa/TaskFlow/assets/123651741/1341873f-6635-414a-be8f-f674e730a1b9" width="350" height="250">
-<img src="https://github.com/hassanolaa/TaskFlow/assets/123651741/1341873f-6635-414a-be8f-f674e730a1b9" width="350" height="250">
+<img src="https://github.com/hassanolaa/TaskFlow/assets/123651741/11534cb4-eab2-4f7e-82a6-51bf256751b7" width="350" height="250">
   
 </div> 
 ## 🧐 Features
