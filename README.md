@@ -1,6 +1,6 @@
-# todo_list
-
-A new Flutter project.
+![Logo](https://i.imgur.com/h0KjyPT.png)
+# TaskFlow
+ToDo list flutter app using sqflite
 
 ## Getting Started
 
