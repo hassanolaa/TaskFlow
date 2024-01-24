@@ -14,6 +14,11 @@
 <img src="https://i.imgur.com/MNhsM7y.png" alt="project-screenshot" width="200" height="250/">
 </div>
 
+<div>
+<img src="https://github.com/hassanolaa/TaskFlow/assets/123651741/1341873f-6635-414a-be8f-f674e730a1b9" width="350" height="250">
+<img src="https://github.com/hassanolaa/TaskFlow/assets/123651741/1341873f-6635-414a-be8f-f674e730a1b9" width="350" height="250">
+  
+</div> 
 ## 🧐 Features
 
 Here're some of the project's best features:
