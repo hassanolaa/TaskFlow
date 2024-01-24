@@ -1,10 +1,11 @@
 
 <img src="https://i.imgur.com/h0KjyPT.png" alt="project-screenshot" width="400" height="350/">
+
 # TaskFlow
-ToDo list flutter app using sqflite
+<h3>ToDo list flutter app using sqflite</h4>
 
 
-# Project Screenshots:
+## 🎦 Project Screenshots
 <div>
 <img src="https://i.imgur.com/c4ArD4W.png" alt="project-screenshot" width="200" height="250/">
 
@@ -12,6 +13,27 @@ ToDo list flutter app using sqflite
 
 <img src="https://i.imgur.com/MNhsM7y.png" alt="project-screenshot" width="200" height="250/">
 </div>
+
+## 🧐 Features
+
+Here're some of the project's best features:
+
+*   Offline Local Task App
+*   Mobile Responsive And Animated App
+*   Local Scheduled Notifications
+*   Splash Screen
+*   On Boarding Screens
+*   Show Case
+*   Smart Dialog
+*   Customized App Icon
+*   Customized App Name
+
+  ## 💻 Built with
+
+Technologies used in the project:
+
+*   Flutter
+*   dart
 
 ## Getting Started
 
