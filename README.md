@@ -19,6 +19,7 @@
 <img src="https://github.com/hassanolaa/TaskFlow/assets/123651741/11534cb4-eab2-4f7e-82a6-51bf256751b7" width="350" height="250">
   
 </div> 
+
 ## 🧐 Features
 
 Here're some of the project's best features:
